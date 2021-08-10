@@ -1,4 +1,4 @@
-## hii I am Gabriel Colgate
+## Hi I am Gabriel Colgate
  <div>
   <a href="https://github.com/Colgate13">
   <img height="190" width="" src="https://github-readme-stats.vercel.app/api?username=Colgate13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
