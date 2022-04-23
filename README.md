@@ -13,8 +13,7 @@
   <img align="center" alt="Colgate13-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Colgate13-CSS" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png">
   <img align="center" alt="Colgate13-PHP" height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg">
-  <img align="center" alt="Colgate13-ARDUINO" height="50" width="50" src="https://www.freeiconspng.com/uploads/arduino-icon-2.png">
-
+  <img align="center" alt="Colgate13-ARDUINO" height="40" width="40" src="https://www.freeiconspng.com/uploads/arduino-icon-2.png">
   <img align="right" alt="Colgate13-yoda" height="160em" width="160em" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 </div>
   
