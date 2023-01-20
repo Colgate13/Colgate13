@@ -1,8 +1,8 @@
 ## Hi I am Gabriel Colgate
  <div>
   <a href="https://github.com/Colgate13">
-  <img height="180" width="" src="https://github-readme-stats.vercel.app/api?username=Colgate13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&nada"/>
-  <img height="180" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colgate13&layout=compact&langs_count=7&theme=dracula&nada"/>
+  <img height="180" width="" src="https://github-readme-stats.vercel.app/api?username=Colgate13&show_icons=true&theme=dracula&include_all_commits=true&count_private=truenada2"/>
+  <img height="180" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colgate13&layout=compact&langs_count=7&theme=dracula&nada&nada2"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Colgate13-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
