@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/Colgate13">
 <!--   <img height="180" width="" src="https://github-readme-stats.vercel.app/api?username=Colgate13&show_icons=true&theme=dracula&include_all_commits=true&count_private=truenada2"/> -->
-  <img height="180" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colgate13&layout=compact&langs_count=7&theme=dracula&nada&nada2"/>
+  <!-- <img height="180" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colgate13&layout=compact&langs_count=7&theme=dracula&nada&nada2"/> -->
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Colgate13-C" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png">
