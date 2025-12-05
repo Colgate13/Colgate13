@@ -5,7 +5,8 @@
   <!-- <img height="180" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colgate13&layout=compact&langs_count=7&theme=dracula&nada&nada2"/> -->
 </div>
 <div style="display: inline_block"><br>
-   <img align="center" alt="Colgate13-C" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png">
+   <img align="center" alt="Colgate13-Rust" height="40" width="40" src="https://github.com/user-attachments/assets/b37c4d1c-f2fd-4ce0-85c1-732d99fa4436"/>
+   <imgsrc="https://img.icons8.com/color/48/000000/c-programming.png">
    <img align="center" alt="Colgate13-Cpp" height="40" width="40" src="https://img.icons8.com/?size=256&id=TpULddJc4gTh&format=png">
   <img align="center" alt="Colgate13-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Colgate13-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
