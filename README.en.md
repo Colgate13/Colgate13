@@ -1,24 +1,24 @@
 <div align="right">
 
-<sub>🇧🇷 <b>Português</b> · <a href="README.en.md">🇺🇸 English</a></sub>
+<sub><a href="README.md">🇧🇷 Português</a> · 🇺🇸 <b>English</b></sub>
 
 </div>
 
 <div align="center">
 
 <!-- ============================================================ -->
-<!-- HEADER OPTION 1 — Typing SVG (terminal animado) [ACTIVE]     -->
+<!-- HEADER OPTION 1 — Typing SVG (animated terminal) [ACTIVE]    -->
 <!-- ============================================================ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=A9B1D6&center=true&vCenter=true&multiline=false&width=640&height=50&lines=%24+whoami;%3E+Backend+Engineer+%C2%B7+Distributed+Systems;%3E+Compilers+%C2%B7+Drivers+%C2%B7+Embedded+%C2%B7+AI;%3E+Building+things+close+to+the+metal" alt="typing" />
 
 <!-- ============================================================ -->
-<!-- HEADER OPTION 2 — Capsule Render (banner wave gradiente)     -->
+<!-- HEADER OPTION 2 — Capsule Render (gradient wave banner)      -->
 <!-- ============================================================ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=140&section=header&text=Gabriel%20Barros%20F.%20Sa&fontColor=c0caf5&fontSize=44&fontAlignY=42&desc=Backend%20%C2%B7%20Systems%20%C2%B7%20Embedded%20%C2%B7%20AI&descAlignY=68&descSize=14&descColor=a9b1d6" width="100%" alt="banner" />
 
 <!-- ============================================================ -->
-<!-- HEADER OPTION 4 — GitHub Trophies (conquistas)               -->
+<!-- HEADER OPTION 4 — GitHub Trophies                            -->
 <!-- ============================================================ -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=Colgate13&theme=tokyonight&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA&column=-1&margin-w=10" alt="trophies" />
@@ -31,7 +31,7 @@
 GABRIEL BARROS FEITOSA SÁ
 Backend Software Engineer · Systems Architecture · DevOps
 
-Backend de sistemas distribuídos em alta escala — microsserviços event-driven, RabbitMQ, Redis, Node.js Streams. Ownership de system design, performance, segurança, CI/CD e operação em Linux/Cloud.
+Backend for distributed systems at scale — event-driven microservices, RabbitMQ, Redis, Node.js Streams. End-to-end ownership of system design, performance, security, CI/CD, and Linux/Cloud operations.
 
 [ Daily Stack ]
   Backend     NestJS · Node.js · TypeScript
@@ -40,13 +40,13 @@ Backend de sistemas distribuídos em alta escala — microsserviços event-drive
   Quality     Jest · CI/CD
   AI          Claude · LLM tooling (Ollama, OpenCode, etc)
 
-[ SaaS em produção ]
+[ SaaS in production ]
   vellomei.com  ·  vaiqvai.com  ·  vellocrm.com  ·  Discord Bots
 
-[ Laboratório pessoal ]
-  Compiladores próprios · Drivers Linux em Rust · Firmware ESP32/Arduino
-  Engines de render no terminal · Simuladores físicos em C
-  Ferramentas locais de IA · Extensões de browser (Paste-Guard)
+[ Personal lab ]
+  Custom compilers · Linux drivers in Rust · ESP32/Arduino firmware
+  Terminal render engines · Physics simulators in C
+  Local AI tooling · Browser extensions (Paste-Guard)
 ```
 
 ---
@@ -84,13 +84,13 @@ Backend de sistemas distribuídos em alta escala — microsserviços event-drive
 
 ### `> featured_projects`
 
-| Projeto | Stack | Sobre |
+| Project | Stack | About |
 |---|---|---|
-| **[SACompiler](https://github.com/Colgate13/SACompiler)** | `C` | Linguagem própria (**SA**) + compilador oficial. |
-| **[m900_pro_delux_drive](https://github.com/Colgate13/m900_pro_delux_drive)** | `Rust` | Driver Linux para expor o nível de bateria do mouse M900 PRO DELUX. |
-| **[typesgine-ascii](https://github.com/Colgate13/typesgine-ascii)** | `TypeScript` | Engine de render, FPS e I/O rodando direto no terminal. |
-| **[GravityUniversal-simulator](https://github.com/Colgate13/GravityUniversal-simulator)** | `C` | Simulador 2D de gravidade. |
-| **[ESP32-Serial-Conversor](https://github.com/Colgate13/ESP32-Serial-Conversor)** | `C++` | Conversor serial usando ESP32. |
+| **[SACompiler](https://github.com/Colgate13/SACompiler)** | `C` | Custom programming language (**SA**) + official compiler. |
+| **[m900_pro_delux_drive](https://github.com/Colgate13/m900_pro_delux_drive)** | `Rust` | Linux driver exposing the M900 PRO DELUX mouse battery level. |
+| **[typesgine-ascii](https://github.com/Colgate13/typesgine-ascii)** | `TypeScript` | Render, FPS and I/O engine running directly in the terminal. |
+| **[GravityUniversal-simulator](https://github.com/Colgate13/GravityUniversal-simulator)** | `C` | 2D gravity simulator. |
+| **[ESP32-Serial-Conversor](https://github.com/Colgate13/ESP32-Serial-Conversor)** | `C++` | Serial converter using ESP32. |
 
 ---
 
