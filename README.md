@@ -28,9 +28,6 @@
 ### `> whoami`
 
 ```text
-GABRIEL BARROS FEITOSA SÁ
-Backend Software Engineer · Systems Architecture · DevOps
-
 Backend de sistemas distribuídos em alta escala — microsserviços event-driven, RabbitMQ, Redis, Node.js Streams. Ownership de system design, performance, segurança, CI/CD e operação em Linux/Cloud.
 
 [ Daily Stack ]
@@ -42,7 +39,6 @@ Backend de sistemas distribuídos em alta escala — microsserviços event-drive
 
 [ SaaS em produção ]
   vellomei.com  ·  vaiqvai.com  ·  vellocrm.com  ·  Discord Bots
-
 [ Laboratório pessoal ]
   Compiladores próprios · Drivers Linux em Rust · Firmware ESP32/Arduino
   Engines de render no terminal · Simuladores físicos em C
@@ -59,7 +55,6 @@ Backend de sistemas distribuídos em alta escala — microsserviços event-drive
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white)
