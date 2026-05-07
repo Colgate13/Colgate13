@@ -28,6 +28,11 @@
 ### `> whoami`
 
 ```text
+GABRIEL BARROS FEITOSA SÁ
+Backend Software Engineer · Systems Architecture · DevOps
+
+Backend de sistemas distribuídos em alta escala — microsserviços event-driven, RabbitMQ, Redis, Node.js Streams. Ownership de system design, performance, segurança, CI/CD e operação em Linux/Cloud.
+
 [ Daily Stack ]
   Backend     NestJS · Node.js · TypeScript
   Data        PostgreSQL · MongoDB · Redis · RabbitMQ
@@ -37,6 +42,7 @@
 
 [ SaaS em produção ]
   vellomei.com  ·  vaiqvai.com  ·  vellocrm.com  ·  Discord Bots
+
 [ Laboratório pessoal ]
   Compiladores próprios · Drivers Linux em Rust · Firmware ESP32/Arduino
   Engines de render no terminal · Simuladores físicos em C
@@ -81,6 +87,7 @@
 | **[typesgine-ascii](https://github.com/Colgate13/typesgine-ascii)** | `TypeScript` | Engine de render, FPS e I/O rodando direto no terminal. |
 | **[GravityUniversal-simulator](https://github.com/Colgate13/GravityUniversal-simulator)** | `C` | Simulador 2D de gravidade. |
 | **[ESP32-Serial-Conversor](https://github.com/Colgate13/ESP32-Serial-Conversor)** | `C++` | Conversor serial usando ESP32. |
+-->
 
 ---
 
@@ -91,4 +98,3 @@
 <a href="https://github.com/Colgate13"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
--->
