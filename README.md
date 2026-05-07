@@ -43,8 +43,6 @@
   Ferramentas locais de IA · Extensões de browser (Paste-Guard)
 ```
 
----
-
 ### `> stack`
 
 **Web / Backend**
