@@ -15,7 +15,7 @@
 <!-- HEADER OPTION 2 — Capsule Render (banner wave gradiente)     -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=140&section=header&text=Gabriel%20Barros%20F.%20Sa&fontColor=c0caf5&fontSize=44&fontAlignY=42&desc=Backend%20%C2%B7%20Systems%20%C2%B7%20Embedded%20%C2%B7%20AI&descAlignY=68&descSize=14&descColor=a9b1d6" width="100%" alt="banner" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=140&section=header&text=Gabriel%20Barros%20F.%20Sa&fontColor=c0caf5&fontSize=44&fontAlignY=42&desc=Backend%20%C2%B7%20Systems%20%C2%B7%20Embedded%20%C2%B7%20AI&descAlignY=68&descSize=14&descColor=a9b1d6" width="100%" alt="banner" /> -->
 
 <!-- ============================================================ -->
 <!-- HEADER OPTION 4 — GitHub Trophies (conquistas)               -->
@@ -82,6 +82,7 @@ Backend de sistemas distribuídos em alta escala — microsserviços event-drive
 
 ---
 
+<!--
 ### `> featured_projects`
 
 | Projeto | Stack | Sobre |
@@ -101,3 +102,4 @@ Backend de sistemas distribuídos em alta escala — microsserviços event-drive
 <a href="https://github.com/Colgate13"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
+-->
