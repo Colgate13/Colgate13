@@ -31,7 +31,8 @@
 GABRIEL BARROS FEITOSA SÁ
 Backend Software Engineer · Systems Architecture · DevOps
 
-Backend de sistemas distribuídos em alta escala — microsserviços event-driven, RabbitMQ, Redis, Node.js Streams. Ownership de system design, performance, segurança, CI/CD e operação em Linux/Cloud.
+Backend de sistemas distribuídos em alta escala — microsserviços event-driven, RabbitMQ, Redis, Node.js Streams.
+Ownership de system design, performance, segurança, CI/CD e operação em Linux/Cloud.
 
 [ Daily Stack ]
   Backend     NestJS · Node.js · TypeScript
@@ -89,9 +90,7 @@ Backend de sistemas distribuídos em alta escala — microsserviços event-drive
 | **[ESP32-Serial-Conversor](https://github.com/Colgate13/ESP32-Serial-Conversor)** | `C++` | Conversor serial usando ESP32. |
 -->
 
----
-
-<div align="center">
+<div>
 
 <a href="mailto:gabreilbarros13@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/gabriel-colgate/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
