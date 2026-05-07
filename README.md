@@ -28,8 +28,6 @@
 ### `> whoami`
 
 ```text
-Backend de sistemas distribuídos em alta escala — microsserviços event-driven, RabbitMQ, Redis, Node.js Streams. Ownership de system design, performance, segurança, CI/CD e operação em Linux/Cloud.
-
 [ Daily Stack ]
   Backend     NestJS · Node.js · TypeScript
   Data        PostgreSQL · MongoDB · Redis · RabbitMQ
@@ -56,8 +54,6 @@ Backend de sistemas distribuídos em alta escala — microsserviços event-drive
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=white)
 
